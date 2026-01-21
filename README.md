@@ -1,9 +1,4 @@
 # Tutedude_Assignment_1
-README – Python Input and Basic Operations
-
-This repository contains two simple Python programs that demonstrate how to take user input and perform basic operations. These tasks are designed for beginners to understand input handling, arithmetic operations, string manipulation, and formatted output in Python.
-
-
 ---
 
 Task 1: Basic operations
