@@ -6,11 +6,11 @@ This repository contains two simple Python programs that demonstrate how to take
 
 ---
 
-Task 1: Basic Calculator
+Task 1: Basic operations
 
 Description
 
-Task 1 works as a basic calculator. It takes two numbers from the user and performs four arithmetic operations:
+Task 1 works as a basic operations. It takes two numbers from the user and performs four arithmetic operations:
 
 Addition
 
